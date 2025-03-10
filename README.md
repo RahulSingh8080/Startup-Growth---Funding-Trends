@@ -56,4 +56,3 @@ We implemented **regression models** to predict startup valuations and success p
 
 ---
 
-## 📦 Project Structure  
